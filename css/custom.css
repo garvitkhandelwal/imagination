@@ -1,0 +1,26 @@
+body {
+	letter-spacing: 1.13px;
+}
+
+.my-container {
+	background: url(../img/welcome-img.jpeg) no-repeat center center;
+	background-size: cover;
+	background-attachment: scroll;
+	min-height: 400px;
+	max-width: 100%;
+	/*margin-bottom: 2px;*/
+	text-align: center;
+}
+
+.h1, h1{
+	margin-bottom: 0.9px; 
+}
+
+#my-branding {
+	line-height: 400px;
+	text-transform: uppercase;
+	color:red;
+	padding: 3px;
+	letter-spacing: 1.25rem;
+	background: rgba(240,240,250,.5);
+}
